@@ -1,0 +1,18 @@
+img{
+display:block;
+margin:auto;
+}
+
+h1{
+  width: auto;
+    font: oblique bold 220% cursive;
+}
+p, h2, h4{
+  font: oblique bold 120% cursive;
+}
+
+#navegacion{
+  
+  font: oblique bold 120% cursive;
+}
+
